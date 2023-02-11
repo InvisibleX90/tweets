@@ -7,4 +7,4 @@ To be given by the user:
 2. List of slurs
 
 To do:
-- [] Enhance the program by using NLP techniques such as sentiment analysis and word embeddings.
+- [ ] Enhance the program by using NLP techniques such as sentiment analysis and word embeddings.
