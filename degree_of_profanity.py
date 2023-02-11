@@ -4,7 +4,7 @@ def degree_of_profanity(tweet, slurs):
     '''Uses regular expression to match slurs in the tweet'''
 
     pattern = re.compile("\w+")
-    words = pattern.findall(tweet)
+    words = pattern.findall(tweet.lower())
 
     degree = 0
     for word in words:
