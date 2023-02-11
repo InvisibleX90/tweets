@@ -5,6 +5,7 @@
 
 We can do contextual analysis by using sentiment analysis to improve our program.
 
+
 ```python
 def profanity_score(tweet, slurs):
     # Use NLP library to analyze the sentiment of the tweet
